@@ -1,6 +1,9 @@
 
-//Coyright @Foyzur Rahman
-//Codded in 2012 Summer
+/*
+Coyright @Foyzur Rahman
+Codded in 2012 Summer
+@ICT-talo
+*/
 
 using Microsoft.WindowsAzure.MobileServices;
 using System;
