@@ -1,7 +1,7 @@
 
 /*
 Coyright @Foyzur Rahman
-Codded in 2012 Summer
+2012 Summer
 @ICT-talo
 */
 
