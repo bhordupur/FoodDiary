@@ -38,7 +38,7 @@ namespace Design
 
         public static MobileServiceClient MobileService = new MobileServiceClient(
         "https://foodrecorddb.azure-mobile.net/",
-        "JxEjvtqoLWvuMiXQlTZBqCCEVEkaoM29");
+        "JxEjvtqoLWvuMiXQlTZBqCCEVEkaoM29CserDcdfC");
 
        
         protected override void OnLaunched(LaunchActivatedEventArgs args)
