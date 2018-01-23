@@ -1,7 +1,6 @@
 ***
-///copyright @ Rahman Foyzur 2012
-///coded for Windows Azure App
-///venue ICT Talo
+copyright @ Rahman Foyzur 2012
+@ ICT Talo
 ***
 
 
